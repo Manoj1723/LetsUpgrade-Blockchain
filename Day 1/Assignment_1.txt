@@ -1,0 +1,30 @@
+Question 1: What is your understanding of Blockchain?
+          => Blockchain is a mixed technology which consist Distributed Database and cryptography.
+             By using blockchain we can make  1.Verifiable  2.Unchanged  3.Temper proof  4.Immutable informations.
+  
+
+Question 2: What is the core problem Blockchain trying to solve?
+          => Blockchain is used to solve  1.Authenticity   2.Security  3.Need of powerful third party for trust
+
+
+Question 3: What are the few features which Blockchain will give you?
+          => Features provided by blockchain are:
+             1.Anti-hacking
+             2.Gives security boost
+             3.Verifiable information’s
+             4.Transparency in the data
+             5.Data is immutable
+             6.Decentralized 
+
+Question 4: What all things does a Block contain?
+          => Blockchain clock contains:
+             1.Block Number
+             2.Transaction record
+             3.Previous Block signature
+             4.Mining key
+
+
+Question 5: How is the verifiability of Blockchain has been attained?
+          => In blockchain data is stored in decentralized manner, which means data is stored in different blocks and all the blocks are connected.
+             If data is changed in one block then signature of all blocks will change .
+             By this way data can’t be manipulated and gives the verifiability to the data.
